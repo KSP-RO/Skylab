@@ -5,6 +5,8 @@ UPDATED: This mod now includes the original design station too!
 
 The textures were taken from actual reference shots of the station.
 
+**Picture Album:** http://imgur.com/a/2HVkc
+
 ![alt tag](http://i.imgur.com/m31SoDU.png)
 
 ##Remotetech Support:

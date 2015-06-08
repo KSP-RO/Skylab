@@ -49,7 +49,10 @@ The Skylab ASAS must be used to properly control the station. The included craft
 
 ### License and Credits
 
-[https://creativecommons.org/licenses/by-nc-nd/3.0/](https://creativecommons.org/licenses/by-nc-nd/3.0/)
+![alt tag](https://licensebuttons.net/l/by-nc-nd/3.0/88x31.png)
+
+https://creativecommons.org/licenses/by-nc-nd/3.0/us/
+
 
 -Original mesh by Usonian
 

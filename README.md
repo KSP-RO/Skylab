@@ -20,12 +20,12 @@ The textures were taken from actual reference shots of the station.
 ### Installation
 Merge/Overwrite the Gamedata and Ship folders in your main KSP directory with the ones from this mod.
 
-NOTE: This mod is compatible with my other mod's scaling by default if you have DECQ, FASA or OLDD Saturn V you need to install the module manager compatibility patches below.
+NOTE: This mod is compatible with my other mod's scaling by default if you don't have DECQ, FASA or OLDD Saturn V installed.
 
 
 First download Module Manager here: http://forum.kerbalspaceprogram.com/threads/55219
 
--If you have DECQ, FASA or OLDD Saturn V's also install the corresponding modulemanager configs and Ship craft files included in this mod package. ONLY USE ONE MODULE MANAGER CONFIG AT A TIME!
+-If you have DECQ, FASA or OLDD Saturn V's the corresponding mm patch will be automatically applied. In the event you have 2 or more of these, the mm patches overwrite eachother in this order FASA<OLDD<DECQ, meaning DECQ overwrites both of the previous ones.
 
 ### How to launch
 Launching this station successfully is a difficult task and not meant for beginners. I intentionally made it difficult. For people having trouble here is an optimal ascent profile.
@@ -38,7 +38,6 @@ If you follow this you should end up with a couple hundred DV extra. Basically, 
 
 ### Notes
 
-* This mod supports my other mod's scaling by default, if you have DECQ, FASA or OLDD you need the compatibility patch for either provided in this pack.
 * DO NOT decouple the left solar panel on the "unbroken" version of the station. This panel has the ability to "come off" as it is used both by the realistic skylab and the unbroken one. It does not come off on the unbroken version.
 * Stage your rocket so the micrometeorite shields and left solar array decouple at the same time as the first stage. The top nosecones should come off anytime after the second stage is lit.
 

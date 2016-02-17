@@ -13,7 +13,7 @@ The textures were taken from actual reference shots of the station.
 * If you use old school fairings by Felbourn, here is a module manager config to make the fairings in this mod compatible: [https://www.mediafire.com/?tkyu1i4m8efuu2l](https://www.mediafire.com/?tkyu1i4m8efuu2l)
 
 ##Remotetech Support:
-* If you use remotetech, here is a module manager config to make the stations compatible: [https://www.mediafire.com/?96u361fjp905bwc](https://www.mediafire.com/?96u361fjp905bwc)
+* If you use remotetech, here is a module manager config to make the stations compatible: [https://www.dropbox.com/s/xo0wbwycmlv0cz1/Skylab_RT.cfg?dl=0](https://www.dropbox.com/s/xo0wbwycmlv0cz1/Skylab_RT.cfg?dl=0)
 
 ##This mod comes in three versions to support the most popular Saturn V mods:
 * DECQ Saturn V - (Supported via Module Manager patch)

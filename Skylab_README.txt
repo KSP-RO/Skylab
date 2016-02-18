@@ -22,7 +22,7 @@ Disclaimer: I am not responsible for any damage done to your computer from the u
 INSTALL
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Merge/Overwrite the Gamedata and Ship folders in your main KSP directory with the ones from this mod.
+Merge/Overwrite the Gamedata folders in your main KSP directory with the ones from this mod.
 
 NOTE: This mod is compatible with my other mod's scaling by default if you have DECQ, FASA or OLDD Saturn V.
 

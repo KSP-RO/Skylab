@@ -12,7 +12,7 @@ The textures were taken from actual reference shots of the station.
 ##Old School Fairings Support:
 * If you use old school fairings by Felbourn, here is a module manager config to make the fairings in this mod compatible: [https://www.mediafire.com/?tkyu1i4m8efuu2l](https://www.mediafire.com/?tkyu1i4m8efuu2l)
 
-##Remotetech Support:
+##STOCK Remotetech Support:
 * If you use remotetech, here is a module manager config to make the stations compatible: [https://www.dropbox.com/s/xo0wbwycmlv0cz1/Skylab_RT.cfg?dl=0](https://www.dropbox.com/s/xo0wbwycmlv0cz1/Skylab_RT.cfg?dl=0)
 
 ##This mod comes in three versions to support the most popular Saturn V mods:
@@ -20,8 +20,11 @@ The textures were taken from actual reference shots of the station.
 * OLDD Saturn V - (Supported via Module Manager patch)
 * FASA - (Supported via Module Manager patch)
 
-### Installation
-Merge/Overwrite the Gamedata and Ship folders in your main KSP directory with the ones from this mod.
+##Install instructions:
+* Download and install mod from here
+
+* Install dependencies for KSP 1.2.x from here: https://www.dropbox.com/s/paqjbizbmxfhdqc/RN_Dependencies_KSP_v1.2.x.zip?dl=0
+* Install dependencies for KSP 1.3.x from here: https://www.dropbox.com/s/7yly4uu89bixvcl/RN_Dependencies_KSP_v1.3.x.zip?dl=0
 
 NOTE: This mod is compatible with my other mod's scaling by default if you don't have DECQ, FASA or OLDD Saturn V installed.
 

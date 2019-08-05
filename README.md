@@ -23,9 +23,6 @@ The textures were taken from actual reference shots of the station.
 ##Install instructions:
 * Download and install mod from here
 
-* Install dependencies for KSP 1.2.x from here: https://www.dropbox.com/s/paqjbizbmxfhdqc/RN_Dependencies_KSP_v1.2.x.zip?dl=0
-* Install dependencies for KSP 1.3.x from here: https://www.dropbox.com/s/7yly4uu89bixvcl/RN_Dependencies_KSP_v1.3.x.zip?dl=0
-
 NOTE: This mod is compatible with my other mod's scaling by default if you don't have DECQ, FASA or OLDD Saturn V installed.
 
 
